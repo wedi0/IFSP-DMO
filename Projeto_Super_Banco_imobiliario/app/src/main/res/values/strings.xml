@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">SuperBancoImobiliarioDMO</string>
+    <string name="Buttontra">Realizar Transferencia</string>
+    <string name="ButtonOpe">Realizar Operação</string>
+    <string name="Button">Mostrar Valor</string>
+    <string name="player">Jogares:</string>
+    <string name="tittle">Banco Imobiliario</string>
+    <string name="transfer">Transferencia</string>
+    <string name="receiver">Receiver:</string>
+    <string name="value">Valor</string>
+    <string name="card">Cartão</string>
+    <string name="RadioR">Receber</string>
+    <string name="RadioP">Pagar</string>
+    <string name="RadioC">Rodada Completa</string>
+
+    <string-array name="cardId">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+</resources>
